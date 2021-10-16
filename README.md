@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdullahriaz1
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning many things at UCSC
+- 🌱 I’m currently learning computer engineering at UCSC
 - 💞️ I’m looking to collaborate on a software project
 - 📫 How to reach me: ariaz988@gmail.com
 

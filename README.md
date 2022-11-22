@@ -2,7 +2,6 @@
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning computer engineering at UCSC
 - 💞️ I’m looking to collaborate on a software project
-- 📫 How to reach me: ariaz988@gmail.com
 
 <!---
 abdullahriaz1/abdullahriaz1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

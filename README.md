@@ -1,6 +1,6 @@
 - 📀 Welcome to my GitHub, I’m @abdullahriaz1!
 - 💿 I’m interested in Full-Stack Development and Deep Learning
-- 📀 I’m currently learning C# and ASP.NET development
+- 📀 I’m currently learning Ruby on Rails and Three.js
 - 💿 I’m looking to collaborate on open-source or startup software!
 
 <!---
